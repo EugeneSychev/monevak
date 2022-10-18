@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Golos';
+	src:
+		url('./Golos-Text_Regular.woff2') format('woff2'),
+		url('Golos-Text_Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Graphik';
+	src:
+		url('./Graphik-Regular.woff2') format('woff2'),
+		url('./Graphik-Regular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'RoadRadio';
+	src: url('./RoadRadio.woff');
+	src: url('RoadRadio.eot?#iefix') format('embedded-opentype'),
+	url('RoadRadio.woff') format('woff'),
+	url('RoadRadio.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'RoadRadio';
+	src: url('./RoadRadio-Bold.woff');
+	src: url('RoadRadio-Bold.eot?#iefix') format('embedded-opentype'),
+	url('RoadRadio-Bold.woff') format('woff'),
+	url('RoadRadio-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	}
